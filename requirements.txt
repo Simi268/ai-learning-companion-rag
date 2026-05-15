@@ -1,9 +1,13 @@
 langchain
-langchain-google-genai
 langchain-community
+langchain-groq
 chromadb
-python-dotenv
 sentence-transformers
-duckduckgo-search
-pypdf
+python-dotenv
 streamlit
+pypdf
+duckduckgo-search
+torch
+transformers
+numpy
+tqdm
